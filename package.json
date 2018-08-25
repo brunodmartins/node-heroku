@@ -1,0 +1,25 @@
+{
+  "name": "node-heroku",
+  "version": "1.0.0",
+  "description": "A simple nodejs API with Expressjs to run on Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoDM2943/node-heroku.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+    "api"
+  ],
+  "author": "Bruno Damasceno Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoDM2943/node-heroku/issues"
+  },
+  "homepage": "https://github.com/BrunoDM2943/node-heroku#readme"
+}
